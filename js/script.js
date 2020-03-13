@@ -1,5 +1,6 @@
 function test()
 {
+	alert('test');
 }
 
 $(window).on("load", function () {
